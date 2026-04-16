@@ -30,14 +30,17 @@ Race / Year
 Lap Time (target)
 
 Project Workflow
+
 Step 1: Data Preprocessing
 Missing value handling
 Feature inspection
 Basic cleaning
+
 Step 2: Exploratory Data Analysis (EDA)
 Distribution of lap times
 Tyre impact analysis
 Driver performance trends
+
 Step 3: Feature Engineering
 Encoding categorical variables
 Handling skewed data
